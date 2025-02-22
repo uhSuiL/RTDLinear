@@ -1,0 +1,8 @@
+input_dim: 6
+hidden_dim: 1
+num_layer: 2
+output_dim: 1
+
+embed_cluster: False
+num_cluster: 9
+cluster_embed_dim: 4

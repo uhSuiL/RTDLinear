@@ -1,0 +1,7 @@
+num_pred_step: 1
+num_step: 25
+ma_win_len: 5
+
+embed_cluster: False
+num_cluster: 4
+cluster_embed_dim: 2

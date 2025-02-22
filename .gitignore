@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+__pycache__/
+
+*.pkl
+*.pth
+*.csv
+
+*.png
+*.jpg
+*.xlsx
+*.ipynb
+
+data/
+log/
