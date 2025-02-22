@@ -9,7 +9,6 @@ __pycache__/
 *.png
 *.jpg
 *.xlsx
-*.ipynb
 
 data/
 log/
