@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-RTDLinear: Leverage Residual Time-aware Decomposition Linear for ATM Cash Balance Prediction 
+RTDLinear: Leveraging Residual Time-aware Decomposition Linear for ATM Cash Balance Prediction 
 </h1>
 
 <hr />
